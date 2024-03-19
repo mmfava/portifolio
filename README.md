@@ -25,7 +25,7 @@ The works are presented in various formats, catering to different needs and anal
 Due to privacy and confidentiality concerns, not all datasets used in the analyses can be publicly shared. However, wherever possible, I will provide a detailed description of the data and methodologies employed. If you are interested in a specific project or need more information, please feel free to contact me by email. I will do my best to accommodate your request, respecting the limits of confidentiality and copyright associated with the data.
 
 ## Contact
-For inquiries, specific requests, or collaborations, please contact me via email at: marilia.melo.favalesso@gmail.com.
+For inquiries, specific requests, or collaborations, please contact me via email at: <b>marilia.melo.favalesso@gmail.com<\b>.
 
 Thank you for your interest, and I hope you find valuable inspirations and insights in this repository😊
 
